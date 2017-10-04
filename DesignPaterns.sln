@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{C287B449-4326-4E78-8351-8B704349F3A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{11985DBF-48D1-4F8E-9BB7-2BA693EA8F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{868280C9-D735-4811-9F84-F479345002C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C287B449-4326-4E78-8351-8B704349F3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C287B449-4326-4E78-8351-8B704349F3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C287B449-4326-4E78-8351-8B704349F3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C287B449-4326-4E78-8351-8B704349F3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11985DBF-48D1-4F8E-9BB7-2BA693EA8F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11985DBF-48D1-4F8E-9BB7-2BA693EA8F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11985DBF-48D1-4F8E-9BB7-2BA693EA8F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11985DBF-48D1-4F8E-9BB7-2BA693EA8F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868280C9-D735-4811-9F84-F479345002C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868280C9-D735-4811-9F84-F479345002C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868280C9-D735-4811-9F84-F479345002C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868280C9-D735-4811-9F84-F479345002C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
